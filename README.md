@@ -1,5 +1,5 @@
 # Pose-Landmarks-Detection
-Detecting landmarks of human bodies in a real-time even with MediaPipe
+Detecting landmarks of human bodies in a real-time event with MediaPipe
 
 
 
